@@ -1,6 +1,6 @@
 import Head from 'next/Head'
 import Layout from '../components/Layout'
-import Link from 'next/Link'
+import Link from 'next/link'
 
 export default function Home({pokemons}) {
   return (
